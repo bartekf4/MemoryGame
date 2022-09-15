@@ -1,0 +1,14 @@
+Zosia;54315
+Wiesiek;8651
+Magda;8413
+Damian;342
+Max;6800
+Olaf;2070
+Zuzanna;2000
+Andrzej;1840
+Rob;1700
+Romuald;1570
+Kinga;1310
+Eugenia;970
+Kuba;213
+August;200
