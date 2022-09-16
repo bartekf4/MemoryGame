@@ -1,5 +1,5 @@
 # MemoryGame
-
+Written in C# and WinForms for GUI.
 
 
 ## Goal of the game 
@@ -13,4 +13,24 @@ The initial visibility time, the visibility time of the reversed pair of cards, 
 
 ## Screenshots 
 
-![Welcome Window]([http://url/to/img.png](https://github.com/bartekf4/MemoryGame/blob/master/Images/main.png])
+### Welcome Window 
+Username is required to identify the player, default level of the game is medium but can be changed before initialization of the game. 
+<br> <br>
+![Welcome Window](https://github.com/bartekf4/MemoryGame/blob/master/Images/main.png)
+
+### Game Window 
+Parameters of the window and the game are subject to configurate even during the game, which pauses accordingly.
+<br> <br>
+![Game Window](https://github.com/bartekf4/MemoryGame/blob/master/Images/game.png)
+
+
+### High scores Window
+Basic high scores table sort in descending order.
+<br><br>
+![High Scores Window](https://github.com/bartekf4/MemoryGame/blob/master/Images/highScores.png)
+
+
+### Settings Window
+Window to change the parameters of the game and the window.
+<br><br>
+![Settings Window](https://github.com/bartekf4/MemoryGame/blob/master/Images/settings.png) 
