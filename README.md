@@ -1,5 +1,7 @@
 # MemoryGame
 
+
+
 ## Goal of the game 
 The goal: to find two matching cards on the board. The faster the player does it and the fewer moves he makes, the better. Depending on the difficulty level, the player can choose from a board with a number of cards to choose from.
 
@@ -8,3 +10,7 @@ At the beginning of each game the whole board is visible. We try to remember the
 
 ## Config
 The initial visibility time, the visibility time of the reversed pair of cards, and the size of the board are subject to configuration. Changing the size of the board obviously entails changing the size of the individual card
+
+## Screenshots 
+
+![Welcome Window]([http://url/to/img.png](https://github.com/bartekf4/MemoryGame/blob/master/Images/main.png])
